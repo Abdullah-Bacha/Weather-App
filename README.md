@@ -17,8 +17,11 @@ A modern React Weather App providing real-time weather updates with a clean UI. 
 ## Setup Instructions
 1. Clone the repository
 2. Run `npm install`
-3. Create a `.env` file and add your API key
-4. Run `npm start`
+3. Run `npm start`
+
+## 🔑 Environment Variables
+Create a `.env` file in the root directory and add your API key:
+VITE_API_KEY=your_api_key_here
 
 ## 🌐 Live Demo
 (Add your Vercel link here)

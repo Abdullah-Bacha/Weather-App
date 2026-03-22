@@ -46,7 +46,7 @@ VITE_API_KEY=your_api_key_here
 
 ## 🌐 Live Demo
 
-(Add your Vercel link here)
+https://weather-app-beryl-eta-51.vercel.app/
 
 ## 📂 Project Structure
 
